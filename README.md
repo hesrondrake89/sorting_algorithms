@@ -1,1 +1,1 @@
-ortingng algo
+Sorting algorithms - Team Project
